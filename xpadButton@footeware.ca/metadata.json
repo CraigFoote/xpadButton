@@ -1,0 +1,8 @@
+{
+  "uuid": "xpadButton@footeware.ca",
+  "name": "Xpad Button",
+  "description": "A button in top bar with menu items to open a new Xpad or show/hide all Xpads. Requires installation of Xpad.",
+  "version": 1,
+  "shell-version": ["3.38"],
+  "url": "https://github.com/CraigFoote/xpadButton.git"
+}
